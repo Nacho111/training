@@ -13,6 +13,8 @@ Information compilation by Nacho Juan (Nacho111)
 
 * PostgreSQL: [PostgresSQL](https://www.postgresql.org/download/) [Create user, database and grant access](https://medium.com/coding-blocks/creating-user-database-and-adding-access-on-postgresql-8bfcd2f4a91e)
 
+* Direnv: [Direnv](https://direnv.net/)
+
 ## Useful links for Linux
 
 * [Usuarios y Grupos de Linux](https://eltallerdelbit.com/usuarios-grupos-linux/)
