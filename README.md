@@ -1,5 +1,5 @@
 # Training
-This repo contain useful information for learn develop web. The information is oriented to Ubuntu, but the attached links may contain information for other distributions.
+This repo contain useful information for learn Web development. The information is oriented to Ubuntu, but the attached links may contain information for other distributions.
 
 Information compilation by Nacho Juan (Nacho111)
 
@@ -17,3 +17,7 @@ Information compilation by Nacho Juan (Nacho111)
 
 * [Usuarios y Grupos de Linux](https://eltallerdelbit.com/usuarios-grupos-linux/)
 * [Permisos y Derechos en Linux](https://blog.desdelinux.net/permisos-y-derechos-en-linux/)
+
+## Useful links for Web development
+
+* [gitmoji](https://gitmoji.carloscuesta.me/)
