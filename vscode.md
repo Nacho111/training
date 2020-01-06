@@ -44,3 +44,9 @@ Visual Studio Code is a IDE developed by Microsoft, it's a fantastic ide and ver
 ### Python
 
 * [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+
+### Ruby on Rails
+
+* [Ruby](https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby)
+
+  
