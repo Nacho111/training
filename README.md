@@ -1,11 +1,12 @@
 # Training
+
 This repo contain useful information for learn Web development. The information is oriented to Ubuntu, but the attached links may contain information for other distributions.
 
 Information compilation by Nacho Juan (Nacho111)
 
 ## Installation of Dependencies
 
-* NodeJs: [nodo version manager](https://github.com/nvm-sh/nvm)
+* NodeJs: [node version manager](https://github.com/nvm-sh/nvm)
 
 * Ruby on Rails: [ruby version manager](https://rvm.io/rvm/install) [RoR on Ubuntu](https://vitux.com/how-to-install-latest-ruby-on-rails-on-ubuntu/)
 

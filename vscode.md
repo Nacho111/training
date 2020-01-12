@@ -1,13 +1,13 @@
 # Vistual Studio Code
 
-Visual Studio Code is a IDE developed by Microsoft, it's a fantastic ide and very recommend by the community. VSCode have an open source version called VSCodium which don't have the telemetry/tracking of Microsoft. 
+Visual Studio Code is a IDE developed by Microsoft, it's a fantastic ide and very recommend by the community. VSCode have an open source version called VSCodium which don't have the telemetry/tracking of Microsoft.
 
 ## Instalation
 
 * [VSCode](https://code.visualstudio.com/)
-* [VSCodium](https://vscodium.com/) 
+* [VSCodium](https://vscodium.com/)
 
-## Userful Extensions 
+## Userful Extensions
 
 ### General
 
@@ -31,15 +31,15 @@ Visual Studio Code is a IDE developed by Microsoft, it's a fantastic ide and ver
 
 * [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
-* GraphQl: 
+* GraphQl:
 
-    * [GraphQl for VSCode](https://marketplace.visualstudio.com/items?itemName=kumar-harsh.graphql-for-vscode)
+  * [GraphQl for VSCode](https://marketplace.visualstudio.com/items?itemName=kumar-harsh.graphql-for-vscode)
 
 * Vue:
 
-    * [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
+  * [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
 
-    * [Vue](https://marketplace.visualstudio.com/items?itemName=jcbuisson.vue)
+  * [Vue](https://marketplace.visualstudio.com/items?itemName=jcbuisson.vue)
 
 ### Python
 
@@ -48,5 +48,3 @@ Visual Studio Code is a IDE developed by Microsoft, it's a fantastic ide and ver
 ### Ruby on Rails
 
 * [Ruby](https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby)
-
-  
