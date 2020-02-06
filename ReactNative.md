@@ -61,8 +61,24 @@ Descargar el android studio del siguente link: <https://developer.android.com/st
 
 Luego ejecutar los siguientes comandos:
 
-- `sudo unzip nombre-zip-descargado /usr/local`
-- `/usr/local/android-studio/bin/studio.sh`
+- ```bash
+  sudo unzip nombre-zip-descargado /usr/local
+  ```
+
+- ```bash
+  /usr/local/android-studio/bin/studio.sh
+  ```
+
+Podemos abrir android studio desde cualquier lugar usando la terminal añadiendo las siguientes líneas al archivo de configuración de `Bash` que más nos acomode.
+
+- ```bash
+  sudo nano ~/.bashrc
+  ```
+
+  - ```bash
+    export PATH=/usr/local/android-studio/bin/studio.sh:$PATH # Al final del archivo
+    alias android-studio=studio.sh
+    ```
 
 Luego en instalación escoger: **_Custom instalation_** y asegurarse de marcar el Android Virtual Device.
 
@@ -70,20 +86,29 @@ Luego en instalación escoger: **_Custom instalation_** y asegurarse de marcar e
 
 Se instal ejecutando el comando
 
-- `yarn global add react-native-cli`
+- ```bash
+  yarn global add react-native-cli
+  ```
 
 ## Creando un dispositivo virtual
 
 Primero crear un proyecto:
 
-- `react-native init Proyecto`
+- ```bash
+  react-native init Proyecto
+  ```
 
 Luego abrir este proyecto con Android Studio, y dirigirse a AVD Manager donde se podrá crear un entorno virtual de desarrollo.
 
 Finalmente para correr el proyecto se ejecuta
 
-- `react-native start`
-- `react-native run-android`
+- ```bash
+  react-native start
+  ```
+
+- ```bash
+  react-native run-android
+  ```
 
 Links externos:
 
