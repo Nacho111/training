@@ -59,7 +59,7 @@ Comprobamos que Java se instaló de manera correcta con el comando `java -versio
 
 Descargar el android studio del siguente link: <https://developer.android.com/studio/>
 
-Luego ejecutar los siguientes comandos:
+Luego ejecutar los siguientes comandos para instalar android studio, podemos elegir la carpeta de instalación `/opt/` o `/usr/local`
 
 - ```bash
   sudo unzip nombre-zip-descargado /usr/local
